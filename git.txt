@@ -1,3 +1,2 @@
 This is git.
 The file is git.
-git
